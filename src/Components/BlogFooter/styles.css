@@ -1,0 +1,14 @@
+.footerCard {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+  background-color: #28373e;
+  color: azure;
+  padding: 20px 0px;
+}
+.footerCard p {
+  color: #5e7177;
+}
+.footerCard_item > * {
+  padding-bottom: 10px;
+}

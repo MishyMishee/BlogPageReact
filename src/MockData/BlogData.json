@@ -1,0 +1,59 @@
+{
+  "main_content": {
+    "title": "Main Content Heading",
+    "subtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dignissim pharetra mi et luctus. Cras quam sapien, laoreet nec elit consectetur, laoreet elementum arcu. Aenean sit amet congue neque. Curabitur dui enim, ullamcorper quis quam eu, tempus faucibus elit. Curabitur euismod nunc id rhoncus cursus. Nulla ut ante massa. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "content_body": [
+      "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In feugiat suscipit ligula, eget suscipit libero dignissim ut. Sed lobortis ex mi, ac euismod massa fermentum at. Nunc ac nibh bibendum, tincidunt odio et, faucibus sem. Proin eleifend nisl in luctus accumsan. Etiam vel mi non sapien malesuada dapibus ac ut nisi.Quisque et egestas ligula. Ut a sapien eu diam varius pellentesque invel arcu. Proin aliquam nunc non congue euismod. Etiam pharetra urnaligula, sed elementum nisi gravida sed.",
+      "Vestibulum lobortis, nisl eu feugiat commodo, dui dolor eleifend tellus, sit amet hendrerit nulla quam a metus. Aenean vel eleifend est, at sodales ipsum. Quisque vitae feugiat mi, vel scelerisque odio. Vestibulum at malesuada risus. Nunc placerat, velit ullamcorper pretium viverra, eros diam placerat arcu, ut venenatis lorem risus eget velit.Etiam porttitor orci vel nisl porttitor tincidunt. Aenean commodo egetturpis at pretium."
+    ],
+    "quote_line": {
+      "text": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...",
+      "author": "Jane Doe"
+    }
+  },
+  "additional_content": {
+    "title": "More in the series",
+    "post_list": [
+      {
+        "title": "Lorem ipsum dolor sit",
+        "subtitle": "Curabitur bibendum tortor eget turpis gravida, ut accumsan magna euismod. Suspendisse potenti. Curabitur sit amet turpis at mi pharetra porta in ac felis. Fusce scelerisque gravida odio et mollis. Fusce scelerisque gravida odio et mollis.",
+        "img_url": "https://picsum.photos/100"
+      },
+      {
+        "title": "Duis vestibulum augue vitae",
+        "subtitle": "Duis viverra risus a massa lobortis eleifend. Nunc malesuada euismod risus id semper. Fusce scelerisque gravida odio et mollis.Fusce scelerisque gravida odio et mollis. Fusce scelerisque gravida odio et mollis.",
+        "img_url": "https://picsum.photos/100"
+      }
+    ]
+  },
+  "related_articles": {
+    "title": "Related Articles",
+    "articles_list": [
+      {
+        "title": "Lorem ipsum dolor sit",
+        "subtitle": "Curabitur bibendum tortor eget turpis gravida, ut accumsan magna euismod. Suspendisse potenti. ",
+        "img_url": "https://picsum.photos/200/100"
+      },
+      {
+        "title": "Duis vestibulum augue vitae",
+        "subtitle": "Duis viverra risus a massa lobortis eleifend. Nunc malesuada euismod risus id semper. ",
+        "img_url": "https://picsum.photos/200/100"
+      },
+      {
+        "title": "Nunc ex dolor",
+        "subtitle": "Nunc fringilla dui at eros ultricies, elementum rhoncus lorem bibendum. ",
+        "img_url": "https://picsum.photos/200/100"
+      },
+      {
+        "title": "Donec arcu diam",
+        "subtitle": "Nunc blandit tellus ut porta aliquam. Curabitur ut sapien ante. Vivamus pharetra posuere mi, et imperdiet nunc eleifend eu.",
+        "img_url": "https://picsum.photos/200/100"
+      },
+      {
+        "title": "Sed faucibus, magna",
+        "subtitle": "Pellentesque hendrerit pharetra nisl tincidunt mollis. Morbi porttitor, ligula malesuada vehicula elementum.",
+        "img_url": "https://picsum.photos/200/100"
+      }
+    ]
+  }
+}

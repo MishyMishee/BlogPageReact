@@ -1,0 +1,35 @@
+.blog_logo p {
+  color: darkcyan;
+  font-size: 22px;
+  margin: 5px 10px;
+}
+
+.blog_nav {
+  display: flex;
+}
+.blog_nav p {
+  margin: 5px 10px;
+  color: #5e7177;
+}
+
+.blog_header {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  font-family: fantasy;
+  background-color: #28363e;
+  padding: 0px 200px;
+  justify-content: space-between;
+}
+
+.blog_banner {
+  background-color: #8198a0;
+  font-size: 25px;
+  padding: 70px 450px 70px 200px;
+  color: azure;
+}
+.blog_banner-content {
+  background-color: #eeac56;
+  font-family: cursive;
+  white-space: pre-wrap;
+}

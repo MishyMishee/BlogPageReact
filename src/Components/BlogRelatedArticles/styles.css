@@ -1,0 +1,24 @@
+.rel_articles-card {
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+  flex: 0 1 32%;
+  margin: 5px;
+}
+.rel_articles {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.related_articles-content {
+  padding: 50px 200px;
+}
+.rel_articles-card-detail {
+  padding: 5px;
+  color: #999e9d;
+}
+.rel_articles-img {
+  width: 100%;
+}
+.rel_articles-card-detail h2 {
+  margin-bottom: 10px;
+}
